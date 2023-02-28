@@ -1,6 +1,6 @@
- //my entity relashionship medel has 4 entities: gymnasiums,session, coachs.
+ //my entity relashionship model has 4 entities: gymnasiums,member,session, coachs.
  //1-Gymnasium: This entity represents the different gymnasiums that the system supports. 
-//as attributes such as name, address, and telephone number.
+//it has attributes such as name, address, and telephone number.
 //2-Member: This entity represents the members who can register at the gymnasiums. It has attributes such as unique identifier, 
 //last name, address, date of birth, and gender.
 //Each member can register at one gymnasium, so the relationship between Gymnasium and Member is one-to-many.
